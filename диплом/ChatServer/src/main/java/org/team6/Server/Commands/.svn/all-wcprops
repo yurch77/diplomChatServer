@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/132/branches/dev-betta/ChatServer/src/main/java/org/team6/Server/Commands
+END
+SendPrivateMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/132/branches/dev-betta/ChatServer/src/main/java/org/team6/Server/Commands/SendPrivateMessage.java
+END
+ChangeRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/125/branches/dev-betta/ChatServer/src/main/java/org/team6/Server/Commands/ChangeRoom.java
+END
+ShowUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/125/branches/dev-betta/ChatServer/src/main/java/org/team6/Server/Commands/ShowUsers.java
+END
+CommandOnHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/125/branches/dev-betta/ChatServer/src/main/java/org/team6/Server/Commands/CommandOnHelp.java
+END
+SendEmptyConfirmation.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/125/branches/dev-betta/ChatServer/src/main/java/org/team6/Server/Commands/SendEmptyConfirmation.java
+END
+ShowHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/132/branches/dev-betta/ChatServer/src/main/java/org/team6/Server/Commands/ShowHistory.java
+END
+SendMessageToAllInRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/125/branches/dev-betta/ChatServer/src/main/java/org/team6/Server/Commands/SendMessageToAllInRoom.java
+END
+GetRooms.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/125/branches/dev-betta/ChatServer/src/main/java/org/team6/Server/Commands/GetRooms.java
+END
+ICommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/125/branches/dev-betta/ChatServer/src/main/java/org/team6/Server/Commands/ICommand.java
+END
+LeaveRooms.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/125/branches/dev-betta/ChatServer/src/main/java/org/team6/Server/Commands/LeaveRooms.java
+END

@@ -1,0 +1,1 @@
+java -cp JET_0002_TEAM06-0.0.1-SNAPSHOT.jar org.team6.Client.ClientApp

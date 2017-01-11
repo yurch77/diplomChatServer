@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/102/branches/dev-betta/ChatServer/src/main/java/org/team6/Sender
+END
+SenderApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/102/branches/dev-betta/ChatServer/src/main/java/org/team6/Sender/SenderApp.java
+END
+MessagingSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/102/branches/dev-betta/ChatServer/src/main/java/org/team6/Sender/MessagingSender.java
+END
+RedirectMessagingFromServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/102/branches/dev-betta/ChatServer/src/main/java/org/team6/Sender/RedirectMessagingFromServer.java
+END

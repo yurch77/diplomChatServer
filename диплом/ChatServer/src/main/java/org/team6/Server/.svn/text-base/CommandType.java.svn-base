@@ -1,0 +1,13 @@
+package org.team6.Server;
+
+public enum CommandType {
+	HELP_COMMAND,
+	GET_ROOMS,
+	CHANGE_ROOM,
+	LEAVE_ROOM,
+	SEND_TO,
+	SEND_TO_ALL,
+	SHOW_HISTORY,
+	SHOW_USERS,
+	EMPTY_CONFIRMATION
+}
